@@ -11,8 +11,8 @@ We then produced and elbow curve by clustering the Crytocurrencies Using K-Means
 ![bokeh_plot](https://github.com/briagrhm/Crypto_Clustering/assets/120140614/ab0d6069-8347-46af-b076-4b213a783758)
 
 We then visualized the cryptocurrency results using 3D scatter with clusters
-![newplot](https://github.com/briagrhm/Crypto_Clustering/assets/120140614/811b5aee-9353-4130-96cf-04a60a0a7af0)
 
+<img width="720" alt="Screenshot 2023-05-09 at 9 36 49 PM" src="https://github.com/briagrhm/Crypto_Clustering/assets/120140614/d4680ebc-9c38-4953-8e4f-9e5f3763c04d">
 
 
 This 2-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to two principal components. The outliers were able to visualized. 
